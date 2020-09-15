@@ -5,10 +5,13 @@ color: black;
 
 p {
   font-family: Myriad Pro, Avenir, Arial, sans-serif;
+  max-width: 1100px;
   background: #ffffff;
   color: black;
-  text-align: left;
+  text-align: justify;
   margin: 20px 100px 20px 100px;
 }
 
-img {margin: 00px 0px 0px 0px;}
+img {
+  max-width: 1300px;
+  margin: 0px 0px 0px 0px;}
